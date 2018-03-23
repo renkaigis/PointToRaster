@@ -1,4 +1,4 @@
-## ArcEngine 之 GP 工具实现矢量转栅格
+## ArcGIS Engine 之 GP 工具实现矢量转栅格
 
 详细见博客：<a href="http://blog.renkaigis.com/posts/ArcGIS/2018-03-21-ArcEnginePointToRaster.html" target="_blank">ArcEngine 之 GP 工具实现矢量转栅格</a>
 
